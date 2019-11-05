@@ -1,0 +1,7 @@
+C:\Users\Remus Iftimie\Engineering45\week3\Day1\CsharpFundamentalsExceptionHandling\obj\Debug\CsharpFundamentalsExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Engineering45\week3\Day1\CsharpFundamentalsExceptionHandling\obj\Debug\CsharpFundamentalsExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Remus Iftimie\Engineering45\week3\Day1\CsharpFundamentalsExceptionHandling\bin\Debug\CsharpFundamentalsExceptionHandling.exe.config
+C:\Users\Remus Iftimie\Engineering45\week3\Day1\CsharpFundamentalsExceptionHandling\bin\Debug\CsharpFundamentalsExceptionHandling.exe
+C:\Users\Remus Iftimie\Engineering45\week3\Day1\CsharpFundamentalsExceptionHandling\bin\Debug\CsharpFundamentalsExceptionHandling.pdb
+C:\Users\Remus Iftimie\Engineering45\week3\Day1\CsharpFundamentalsExceptionHandling\obj\Debug\CsharpFundamentalsExceptionHandling.exe
+C:\Users\Remus Iftimie\Engineering45\week3\Day1\CsharpFundamentalsExceptionHandling\obj\Debug\CsharpFundamentalsExceptionHandling.pdb
